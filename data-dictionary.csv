@@ -1,1 +1,16 @@
-variable,long_name,units,standard_name,comment
+table,variable,category,units,description
+surfgrass_motile_invertebrate-surveys.csv,date,date,yyyy-mm-dd,Date on which the survey was conducted
+surfgrass_motile_invertebrate-surveys.csv,site,character,NA,Rocky intertidal site where survey was conducted
+surfgrass_motile_invertebrate-surveys.csv,time,date,00(hr):00(min),The time (24hr clock) when the survey was started
+surfgrass_motile_invertebrate-surveys.csv,observer,character,NA,The individual(s) who conducted the survey
+surfgrass_motile_invertebrate-surveys.csv,quadrat,numeric,NA,One of five permanent quadrats along a 10m transect. Additional quadrats (6-10) done when 1-5 have <50% Phyllospadix cover
+surfgrass_motile_invertebrate-surveys.csv,distance,numeric,m,The distance along 10m transect where the quadrat is surveyed
+surfgrass_motile_invertebrate-surveys.csv,left_right,character,NA,Whether the quadrat was laid on the left or right side of the transect
+surfgrass_motile_invertebrate-surveys.csv,scientific_name,character,NA,Taxonomic name for a given taxon code
+surfgrass_motile_invertebrate-surveys.csv,description,character,NA,"Common vernacular description of what a given code represents (i.e. acorn barnacle, dead acorn barnacle)"
+surfgrass_motile_invertebrate-surveys.csv,count,numeric,NA,The number of individuals of a taxon within the quadrat
+surfgrass_motile_invertebrate-surveys.csv,cover_%,numeric,NA,The percent cover of a taxon within the quadrat
+surfgrass_motile_invertebrate-surveys.csv,estimate,character,NA,Whether the count or percent cover for a taxon was estimated
+surfgrass_motile_invertebrate-surveys.csv,entered_by,character,NA,The individual(s) who entered the data into the spreadsheet
+surfgrass_motile_invertebrate-surveys.csv,checked_by,character,NA,The individual(s) who quality controlled the data
+surfgrass_motile_invertebrate-surveys.csv,notes,character,NA,Records anything of note about a given observation

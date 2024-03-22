@@ -1,25 +1,44 @@
 # Changelog
-
 All notable changes to this project will be documented in this file.
 
-## [0.0.1] - yyyy-mm-dd
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning]
+(https://semver.org/spec/v2.0.0.html).
 
-Summary
-
-### Added
-
-*
-* 
-*
-
-### Fixed
-
-* 
-
+## [2.1.0] - 2023-01-26
 ### Changed
+- Updated survey spreadsheet with survey data to November 2023
+- Updated README
 
-*
+## [2.0.0] - 2023-01-06
+### Changed
+- Updated survey spreadsheet with survey data to November 2022
+- Added "scientific_name" and "description" columns to survey data, removed
+  "taxon_code" column
+- Updated Data Dictionary to reflect above changes in survey data
 
 ### Removed
+- Rocky Intertidal taxonomic data
 
-*
+## [1.0.0] - 2022-01-11
+### Added
+- Creative Commons license
+- README file
+- Overall Rocky Intertidal protocol
+
+### Changed
+- Updated survey spreadsheet with survey data to November 2021
+- Updated Data Dictionary
+- Updated taxa spreadsheet with new codes and structure
+
+### Removed
+- Rocky Intertidal site data
+- Surfgrass protocol
+
+## [0.1.0] - 2019-02-16
+### Added
+- Mobile Invertebrate Surfgass survey data (2018)
+- Rocky Intertidal taxa codes
+- Rocky Intertidal site data
+- Data Dictionary with definitions of all variables
+- Surfgrass protocol
