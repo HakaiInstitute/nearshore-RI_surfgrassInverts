@@ -1,4 +1,4 @@
-# Seastar & Macroinvertebrate Dynamics: Motile Invertebrates
+# Surfgrass Community Structure: Motile Invertebrates
 
 <div float="left">
 <img src=docs/logos/tula-logo.png />
