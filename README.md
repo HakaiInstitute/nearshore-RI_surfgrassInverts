@@ -14,8 +14,8 @@ In light of the effort required to create data packages, we request that in addi
 Reference Citation
 ```
 Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2023). 
-Surfgrass motile invertebrate survey data from BC Central Coast, 2018-2023. 
-Hakai Institute dataset. V2.1.0 [access date]
+Surfgrass Communities: Motile Invertebrate Surveys - BC Central Coast (v2.1.0) 
+[Data set]. https://doi.org/10.21966/0yk3-9b74
 ```
 
 ## Summary
