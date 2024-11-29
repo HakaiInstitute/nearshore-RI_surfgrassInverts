@@ -13,7 +13,7 @@ In light of the effort required to create data packages, we request that in addi
 
 Reference Citation
 ```
-Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2023). 
+Froese, T., Gehman, A., Hessing-Lewis, M., and Sadlier-Brown, G. (2024). 
 Surfgrass Communities: Motile Invertebrate Surveys - BC Central Coast (v2.1.0) 
 [Data set]. https://doi.org/10.21966/0yk3-9b74
 ```
